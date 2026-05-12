@@ -88,6 +88,7 @@ Avaliação completa de segurança em instituição de ensino público: inventá
 | ✅ Concluído | CCNA: Switching, Roteamento e Wireless |
 | ✅ Concluído | NDG Linux Unhatched |
 | ✅ Concluído | Python Essentials 1 · IT Essentials 7.0 |
+| ✅ Concluído | Hacking Ético (Cisco) |
 | 🔄 Em andamento | CyberOps Associate (Cisco) |
 | 🔄 Em andamento | CCST Cybersecurity · Network Security (Cisco) |
 | 🔄 Em andamento | AWS Academy Cloud Foundations |
